@@ -11,6 +11,7 @@ The objective is to identify factors that influence whether a pet is adopted or 
 The complete workflow is documented in the following Jupyter Notebook:
 
 **Notebook**: [`pet_adoption_likelihood.ipynb`](./pet_adoption_likelihood.ipynb)
+**Dataset Link**:[`Pet Adoption Likelihood`](https://www.kaggle.com/datasets/rabieelkharoua/predict-pet-adoption-status-dataset)
 
 ## Project Features
 
